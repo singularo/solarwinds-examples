@@ -3,6 +3,8 @@
  * Simple config file, replace the vars with your own details
  */
 
+require_once __DIR__ . '/vendor/autoload.php';
+
 $host = ''; // Hostname of n-central server
 $user = ''; // username of user with api access
 $pass = ''; // password of api user
