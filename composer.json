@@ -1,0 +1,13 @@
+{
+  "name": "singularo/solarwinds-examples",
+  "description": "Simple examples using the solarwinds SOAP API.",
+  "license": "GPL-2.0-only",
+  "keywords": [
+    "solarwinds",
+    "soap"
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "singularo/solarwinds-soap": "dev-master"
+  }
+}

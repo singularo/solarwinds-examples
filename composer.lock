@@ -1,0 +1,50 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "b85f78347ffbfce555d14de23a6780fe",
+    "packages": [
+        {
+            "name": "singularo/solarwinds-soap",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/singularo/solarwinds-soap.git",
+                "reference": "8e247d7652e78118d4c8b0ab323eeffaf2774c5a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/singularo/solarwinds-soap/zipball/8e247d7652e78118d4c8b0ab323eeffaf2774c5a",
+                "reference": "8e247d7652e78118d4c8b0ab323eeffaf2774c5a",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Solarwinds\\Soap\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-only"
+            ],
+            "keywords": [
+                "soap",
+                "solarwinds"
+            ],
+            "time": "2018-03-31T10:08:09+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "singularo/solarwinds-soap": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
