@@ -1,0 +1,5 @@
+# example config.yml
+
+host: your.ncentral.host
+user: user_with_api_permissions@your.ncentral.host
+pass: something_secure
